@@ -44,16 +44,16 @@ Through systematic exploration, we endeavour to uncover variations and contrasts
 Before delving into the specifics of individual regions, it's crucial to understand the overarching trends in global air quality and water pollution. This initial exploration allows us to identify broad patterns that may influence our detailed analysis later on. 
 
 Below are the boxplots representing air quality and water pollution in five countries (the People's Republic of China, the United States of America, Russia, France, United Kingdom). These visualizations provide a comparative analysis of environmental indicators, contributing to our broader understanding of global trends. 
-![Air Quality in China](boxplot_air_quality_china.png)
-![Water Pollution in China](boxplot_water_pollution_china.png)
-![Air Quality in the US](boxplot_air_quality_US.png)
-![Water Pollution in the US](boxplot_water_polltion_US.png)
-![Air Quality in Russia](boxplot_air_quality_Russia.png)
-![Water Pollution in Russia](boxplot_water_polltion_Russia.png)
-![Air Quality in France](boxplot_air_quality_France.png)
-![Water Pollution in France](boxplot_water_polltion_France.png)
-![Air Quality in the UK](boxplot_air_quality_UK.png)
-![Water Pollution in the UK](boxplot_water_polltion_Uk.png)
+![Air Quality in China](plots/boxplot_air_quality_china.png)
+![Water Pollution in China](plots/boxplot_water_pollution_china.png)
+![Air Quality in the US](plots/boxplot_air_quality_US.png)
+![Water Pollution in the US](plots/boxplot_water_polltion_US.png)
+![Air Quality in Russia](plots/boxplot_air_quality_Russia.png)
+![Water Pollution in Russia](plots/boxplot_water_polltion_Russia.png)
+![Air Quality in France](plots/boxplot_air_quality_France.png)
+![Water Pollution in France](plots/boxplot_water_polltion_France.png)
+![Air Quality in the UK](plots/boxplot_air_quality_UK.png)
+![Water Pollution in the UK](plots/boxplot_water_polltion_Uk.png)
 
 ### 4. Importance of Studying China
 
@@ -67,10 +67,10 @@ It is important to seek to firmly position our study within the larger academic 
 
 To provide a visual foundation for our subsequent statistical analyses, here are two histograms depicting the distribution of air quality and water pollution in Chinese cities.
 
-![Air Quality Histogram in China](AirQuality_Histogram.png)
+![Air Quality Histogram in China](plots/AirQuality_Histogram.png)
 *The histogram illustrates the distribution of air quality levels in Chinese cities. The x-axis represents the Air Quality Index, while the y-axis shows the frequency of cities falling within specified air quality ranges. The histogram provides a visual overview of the variability in air quality across the sampled Chinese cities.*
 
-![Water Pollution Histogram in China](WaterPollution_Histogram.png)
+![Water Pollution Histogram in China](plots/WaterPollution_Histogram.png)
 *This histogram displays the distribution of water pollution levels in Chinese cities. The x-axis represents the Water Pollution index, and the y-axis depicts the frequency of cities falling within distinct water pollution ranges. The histogram offers insights into the diversity of water pollution levels across the sampled Chinese cities.*
 
 ### 5. Rationale for the Chinese Subset
